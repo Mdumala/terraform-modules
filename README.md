@@ -1,2 +1,4 @@
 - [Instrukcja Flux Bootstrap](docs/README_flux-bootstrap.md)
 - [Instrukcja RKE2 Cluster on vSphere](docs/README_rancher2-vsphere-cluster.md)
+- [Instrukcja RKE2 Cluster on Azure](docs/README_rancher2-azure-cluster.md)
+- [Instrukcja Cilium ClusterMesh](docs/README_cilium-clustermesh.md)
